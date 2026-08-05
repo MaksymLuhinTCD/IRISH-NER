@@ -1,0 +1,829 @@
+ICU DAILY PROGRESS NOTE — March 11, 2026
+Date: 03-Sep-2025  Time: 01:15
+Sinead Kowalski, 27M, Romanian. MRN 22175294.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 2025-07-18 with severe sepsis.
+HR 108, MAP 58 mmHg, Temp 37.1°C, SpO2 30% on FiO2 45%.
+Given 500 mL crystalloid; 4 units PRBC transfused.
+Blood cultures 1 of 2 positive; 40% of isolates sensitive to piperacillin-tazobactam.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Gallagher, ICU consultant at Sligo University Hospital on 27/11/2025 at 18:15.
+
+RESIDENT NOTE — 18-Dec-2025
+Date: April 20, 2026  Time: 13:30
+Padraig Singh, 57M, Romanian. MRN 34127884.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 23-Apr-2025 with DKA.
+Severe sepsis, day 9 of ICU admission (fourth episode).
+Social work to discuss home oxygen funding, est. €1,200.
+Noradrenaline 0.2 mcg/kg/min to keep MAP > 60.
+ETT in situ, FiO2 100%, PEEP 12, TV 380 mL. ABG pH 7.21.
+HR 129, MAP 91 mmHg, Temp 38.4°C, SpO2 90% on FiO2 92%.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Brennan, ICU consultant at Connolly Hospital on 2025-08-26 at 0845 hrs.
+
+FELLOW NOTE — January 3, 2026
+Date: August 22, 2026  Time: 21:30
+Padraig Singh, 40M, Polish. MRN 76262352.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 02/04/2026 with community-acquired pneumonia.
+Blood cultures 2 of 2 positive; 94% of isolates sensitive to piperacillin-tazobactam.
+Social work to discuss home oxygen funding, est. €4,500.
+Noradrenaline 0.2 mcg/kg/min to keep MAP > 60.
+HR 113, MAP 90 mmHg, Temp 38.4°C, SpO2 96% on FiO2 92%.
+WBC 18.6, Cr 178, lactate 2.4 mmol/L, platelets 82.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. Byrne, ICU consultant at Cork University Hospital on 22-Apr-2025 at 18:15.
+
+ATTENDING NOTE — 01-Mar-2026
+Date: 2026-10-20  Time: 22:00
+David Silva, 90M, Latvian. MRN 63428001.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 13-Jul-2025 with COPD exacerbation.
+Noradrenaline 0.1 mcg/kg/min to keep MAP > 65.
+HR 78, MAP 62 mmHg, Temp 38.4°C, SpO2 30% on FiO2 40%.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. A. Fitzgerald, ICU consultant at St. James's Hospital on February 18, 2026 at 0215 hrs.
+
+SOAP NOTE
+Date: 2026-11-05  19:30
+Patient: Aoife Silva (British), MRN 72544046
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient drowsy but rousable, VSS.
+O: HR 119, MAP 74 mmHg, Temp 36.2°C, SpO2 45% on FiO2 40%. WBC 14.2, Cr 195, lactate 4.6 mmol/L, platelets 122.
+A: Dka, first ICU day.
+P: Noradrenaline 0.1 mcg/kg/min to keep MAP > 70. Given 500 mL crystalloid; 2 units PRBC transfused.
+Reviewed by Dr. P. Healy, registrar at University Hospital Galway on 2026-09-25 at 0230 hrs.
+
+ICU HANDOVER NOTE — 06-Jun-2025 1630 hrs
+S: Grace Dunne, 43M, bed 8.
+B: Admitted 27/07/2025 with acute ischaemic stroke. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 103, MAP 56 mmHg, Temp 36.2°C, SpO2 70% on FiO2 100%.
+R: Handed over to Dr. M. O'Connor at Connolly Hospital. Call Dr. M. Lynch PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 2026-12-26
+Roisin O'Brien, 47M, Polish. MRN 40446731.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: 16/04/2026. Diagnoses: upper GI bleed, post-operative monitoring.
+Social work to discuss home oxygen funding, est. €12,000.
+Polytrauma, day 2 of ICU admission (first episode).
+ETT in situ, FiO2 94%, PEEP 8, TV 500 mL. ABG pH 7.31.
+Length of stay 15 days.
+Reviewed by Dr. Reid, ICU consultant at Tallaght University Hospital on 03-Dec-2026 at 2300 hrs.
+
+Overnight cross-cover 05:15, August 19, 2025. Grace Brennan at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted 22-Jun-2025 with ARDS; VSS overnight, NAEON. Covered by Dr. A. Murphy.
+
+NARRATIVE PROGRESS NOTE — 26-Dec-2025
+Patient is a 36-year-old Latvian gentleman (Conor Okafor, MRN 38325623, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on 01/05/2025 with community-acquired pneumonia. Overnight he required FiO2 90% with SpO2 70% and noradrenaline 0.3 mcg/kg/min. Lactate cleared to 2.0 mmol/L. Seen by Dr. Byrne of the renal team at University Hospital Galway on June 24, 2026 at 1645.
+
+DICTATION — dictated by Dr. R. Byrne on 2025-03-18 at 0500 hrs.
+This is a 38 year old Lithuanian patient, Liam Brennan, record number 93094361, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 24-Feb-2025 with DKA. HR 125, MAP 90 mmHg, Temp 39.0°C, SpO2 40% on FiO2 30%. WBC 9.4, Cr 157, lactate 3.8 mmol/L, platelets 61. Estimated ICU cost to date €12,000. End of dictation.
+
+PROBLEM-ORIENTED NOTE — 04-Sep-2026 02:45
+Patient: Tomasz Nolan, Indian, MRN 36763445, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: AKI — Noradrenaline 0.1 mcg/kg/min to keep MAP > 70.
+# Problem 2: acute ischaemic stroke — Given 500 mL crystalloid; 2 units PRBC transfused.
+# Problem 3: DKA — Noradrenaline 0.1 mcg/kg/min to keep MAP > 65.
+# Problem 4: type 2 respiratory failure — HR 108, MAP 83 mmHg, Temp 38.4°C, SpO2 35% on FiO2 60%.
+
+Reviewed by Dr. J. O'Brien, ICU fellow at Cork University Hospital on 2025-05-22 at 04:30.
+
+ICU DAILY PROGRESS NOTE — August 5, 2025
+Date: 04/07/2026  Time: 21:15
+Sinead Quinn, 70M, Nigerian. MRN 66542771.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 07/06/2026 with decompensated CHF.
+Acute ischaemic stroke, day 8 of ICU admission (first episode).
+Given 500 mL crystalloid; 3 units PRBC transfused.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Nolan, ICU consultant at Beaumont Hospital on 2025-02-17 at 07:00.
+
+RESIDENT NOTE — 09/01/2025
+Date: 05-Jul-2026  Time: 1745 hrs
+Sean McCarthy, 26M, Lithuanian. MRN 67085086.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted May 3, 2025 with type 2 respiratory failure.
+WBC 14.2, Cr 122, lactate 4.6 mmol/L, platelets 45.
+Given 500 mL crystalloid; 4 units PRBC transfused.
+Social work to discuss home oxygen funding, est. €2,400.
+HR 137, MAP 63 mmHg, Temp 36.2°C, SpO2 60% on FiO2 40%.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. McCarthy, ICU consultant at University Hospital Galway on April 6, 2026 at 16:15.
+
+FELLOW NOTE — 17/11/2025
+Date: 26/01/2026  Time: 0015 hrs
+Siobhan Hartmann, 76M, Polish. MRN 98358257.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted November 27, 2026 with DKA.
+Given 250 mL crystalloid; 2 units PRBC transfused.
+Copd exacerbation, day 6 of ICU admission (first episode).
+WBC 9.4, Cr 67, lactate 1.1 mmol/L, platelets 170.
+Blood cultures 2 of 2 positive; 50% of isolates sensitive to piperacillin-tazobactam.
+ETT in situ, FiO2 30%, PEEP 5, TV 500 mL. ABG pH 7.38.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Doyle, ICU consultant at Beaumont Hospital on 02/08/2025 at 14:00.
+
+ATTENDING NOTE — 11/09/2026
+Date: 10/04/2026  Time: 10:45
+Declan Quinn, 44M, Romanian. MRN 77744470.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 25/01/2025 with severe sepsis.
+Blood cultures 2 of 2 positive; 28% of isolates sensitive to piperacillin-tazobactam.
+Given 500 mL crystalloid; 3 units PRBC transfused.
+HR 138, MAP 69 mmHg, Temp 36.2°C, SpO2 45% on FiO2 94%.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. Patel, ICU consultant at University Hospital Limerick on 05/05/2025 at 2245 hrs.
+
+SOAP NOTE
+Date: 2025-09-26  1600
+Patient: Lukasz Dunne (Romanian), MRN 21420815
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient sedated and ventilated, NAEON.
+O: HR 63, MAP 63 mmHg, Temp 38.4°C, SpO2 40% on FiO2 94%. WBC 18.6, Cr 345, lactate 1.1 mmol/L, platelets 49.
+A: Polytrauma, fifth ICU day.
+P: Noradrenaline 0.1 mcg/kg/min to keep MAP > 65. Given 500 mL crystalloid; 1 units PRBC transfused.
+Reviewed by Dr. J. Dunne, registrar at Mater Misericordiae University Hospital on September 24, 2025 at 02:45.
+
+ICU HANDOVER NOTE — May 3, 2025 0615 hrs
+S: Padraig Brennan, 67M, bed 3.
+B: Admitted November 16, 2026 with upper GI bleed. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 138, MAP 67 mmHg, Temp 36.2°C, SpO2 45% on FiO2 90%.
+R: Handed over to Dr. M. Reid at Beaumont Hospital. Call Dr. R. Fitzgerald PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 05/01/2026
+Declan Power, 31M, Romanian. MRN 75714920.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: 10-Dec-2026. Diagnoses: acute ischaemic stroke, type 2 respiratory failure.
+Noradrenaline 0.4 mcg/kg/min to keep MAP > 60.
+ETT in situ, FiO2 80%, PEEP 12, TV 380 mL. ABG pH 7.45.
+HR 92, MAP 79 mmHg, Temp 37.1°C, SpO2 55% on FiO2 35%.
+Length of stay 20 days.
+Reviewed by Dr. A. Byrne, ICU consultant at Sligo University Hospital on June 9, 2025 at 2030.
+
+Overnight cross-cover 22:30, 16/07/2025. Maria Power at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted July 15, 2026 with COPD exacerbation; VSS overnight, NAEON. Covered by Dr. M. Nowak.
+
+NARRATIVE PROGRESS NOTE — 11/02/2026
+Patient is a 62-year-old Latvian gentleman (Aoife Hartmann, MRN 36271930, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on 23/01/2026 with severe sepsis. Overnight he required FiO2 94% with SpO2 94% and noradrenaline 0.3 mcg/kg/min. Lactate cleared to 1.4 mmol/L. Seen by Dr. M. Hartmann of the renal team at St. Vincent's University Hospital on 25/05/2025 at 0130 hrs.
+
+DICTATION — dictated by Dr. S. Doyle on 09/07/2026 at 1145.
+This is a 70 year old Indian patient, Anna O'Connor, record number 20814848, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 02-Dec-2026 with type 2 respiratory failure. HR 75, MAP 73 mmHg, Temp 39.0°C, SpO2 30% on FiO2 45%. WBC 9.4, Cr 301, lactate 4.6 mmol/L, platelets 215. Estimated ICU cost to date €2,400. End of dictation.
+
+PROBLEM-ORIENTED NOTE — 10-May-2026 07:30
+Patient: Sarah Nowak, Polish, MRN 32458983, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: ARDS — Noradrenaline 0.1 mcg/kg/min to keep MAP > 65.
+# Problem 2: severe sepsis — ETT in situ, FiO2 98%, PEEP 12, TV 420 mL. ABG pH 7.31.
+# Problem 3: community-acquired pneumonia — WBC 3.1, Cr 149, lactate 3.8 mmol/L, platelets 324.
+# Problem 4: DKA — HR 98, MAP 70 mmHg, Temp 38.4°C, SpO2 70% on FiO2 55%.
+
+Reviewed by Dr. A. Costello, ICU fellow at St. Vincent's University Hospital on 13-Jul-2025 at 10:00.
+
+ICU DAILY PROGRESS NOTE — June 19, 2025
+Date: 17/11/2025  Time: 07:45
+Padraig Kowalski, 58M, Irish. MRN 27078806.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 2026-07-02 with acute ischaemic stroke.
+WBC 22.0, Cr 299, lactate 4.6 mmol/L, platelets 167.
+Noradrenaline 0.05 mcg/kg/min to keep MAP > 60.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. Byrne, ICU consultant at Sligo University Hospital on 22/02/2026 at 0100 hrs.
+
+RESIDENT NOTE — October 8, 2025
+Date: 10-Mar-2026  Time: 13:00
+Orla Quinn, 43M, Latvian. MRN 45014973.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 08/10/2025 with AKI.
+Given 1000 mL crystalloid; 2 units PRBC transfused.
+ETT in situ, FiO2 60%, PEEP 5, TV 500 mL. ABG pH 7.38.
+Septic shock, day 1 of ICU admission (second episode).
+WBC 18.6, Cr 405, lactate 4.6 mmol/L, platelets 81.
+Noradrenaline 0.2 mcg/kg/min to keep MAP > 60.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. P. Kowalski, ICU consultant at Tallaght University Hospital on August 8, 2025 at 22:45.
+
+FELLOW NOTE — April 13, 2025
+Date: 24/09/2025  Time: 0630 hrs
+Conor Doyle, 78M, Romanian. MRN 45570644.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 2025-05-25 with acute ischaemic stroke.
+Noradrenaline 0.05 mcg/kg/min to keep MAP > 70.
+Social work to discuss home oxygen funding, est. €1,200.
+Blood cultures 2 of 2 positive; 30% of isolates sensitive to piperacillin-tazobactam.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. Murphy, ICU consultant at Connolly Hospital on July 5, 2025 at 05:45.
+
+ATTENDING NOTE — 2025-06-23
+Date: 06/06/2025  Time: 16:45
+Sarah Costello, 67M, Nigerian. MRN 54519683.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 15/03/2025 with AKI.
+Post-operative monitoring, day 2 of ICU admission (fifth episode).
+Noradrenaline 0.1 mcg/kg/min to keep MAP > 65.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. M. Sheehan, ICU consultant at Beaumont Hospital on 27/07/2025 at 15:15.
+
+SOAP NOTE
+Date: 15-Apr-2026  1500 hrs
+Patient: Siobhan Dunne (Latvian), MRN 15455881
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient drowsy but rousable, VSS.
+O: HR 62, MAP 84 mmHg, Temp 36.2°C, SpO2 30% on FiO2 70%. WBC 9.4, Cr 92, lactate 6.2 mmol/L, platelets 213.
+A: Decompensated chf, third ICU day.
+P: Noradrenaline 0.2 mcg/kg/min to keep MAP > 70. Given 250 mL crystalloid; 3 units PRBC transfused.
+Reviewed by Dr. P. Maguire, registrar at Tallaght University Hospital on May 9, 2025 at 19:00.
+
+ICU HANDOVER NOTE — February 8, 2026 1445 hrs
+S: Sinead Okafor, 82M, bed 5.
+B: Admitted 2025-03-16 with hypoxic respiratory failure. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 96, MAP 64 mmHg, Temp 35.8°C, SpO2 60% on FiO2 90%.
+R: Handed over to Dr. Patel at University Hospital Limerick. Call Dr. M. Dunne PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 26-Oct-2025
+Eoin Sheehan, 39M, Romanian. MRN 64728187.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: 03-Nov-2025. Diagnoses: DKA, decompensated CHF.
+Blood cultures 1 of 2 positive; 55% of isolates sensitive to piperacillin-tazobactam.
+HR 70, MAP 81 mmHg, Temp 39.0°C, SpO2 98% on FiO2 50%.
+Social work to discuss home oxygen funding, est. €1,200.
+ETT in situ, FiO2 45%, PEEP 12, TV 500 mL. ABG pH 7.31.
+Length of stay 19 days.
+Reviewed by Dr. Sheehan, ICU consultant at Mater Misericordiae University Hospital on 25/05/2026 at 08:30.
+
+Overnight cross-cover 08:15, 06/04/2025. Lukasz O'Connor at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted 11/02/2026 with community-acquired pneumonia; VSS overnight, NAEON. Covered by Dr. R. Quinn.
+
+NARRATIVE PROGRESS NOTE — November 8, 2025
+Patient is a 23-year-old Polish gentleman (Patrick Brennan, MRN 41019536, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on 27/08/2026 with AKI. Overnight he required FiO2 60% with SpO2 40% and noradrenaline 0.1 mcg/kg/min. Lactate cleared to 1.4 mmol/L. Seen by Dr. R. Okafor of the renal team at Connolly Hospital on 07-Feb-2026 at 0545 hrs.
+
+DICTATION — dictated by Dr. Sheehan on January 22, 2025 at 22:30.
+This is a 66 year old Nigerian patient, Liam Kelly, record number 37377253, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 2025-01-09 with ICU delirium. HR 99, MAP 81 mmHg, Temp 38.4°C, SpO2 50% on FiO2 80%. WBC 3.1, Cr 164, lactate 1.1 mmol/L, platelets 293. Estimated ICU cost to date €4,500. End of dictation.
+
+PROBLEM-ORIENTED NOTE — 16/02/2026 1215 hrs
+Patient: Sean Reid, Lithuanian, MRN 63388071, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: AKI — ETT in situ, FiO2 96%, PEEP 5, TV 450 mL. ABG pH 7.38.
+# Problem 2: COPD exacerbation — Noradrenaline 0.4 mcg/kg/min to keep MAP > 60.
+# Problem 3: post-operative monitoring — ETT in situ, FiO2 55%, PEEP 12, TV 500 mL. ABG pH 7.31.
+# Problem 4: polytrauma — HR 113, MAP 65 mmHg, Temp 39.0°C, SpO2 40% on FiO2 35%.
+
+Reviewed by Dr. J. Fitzgerald, ICU fellow at Tallaght University Hospital on 15/03/2025 at 1715 hrs.
+
+ICU DAILY PROGRESS NOTE — February 13, 2026
+Date: 06/03/2026  Time: 1615
+Aoife Nowak, 81M, Romanian. MRN 50482119.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 05-Jan-2026 with upper GI bleed.
+WBC 22.0, Cr 267, lactate 6.2 mmol/L, platelets 140.
+Icu delirium, day 8 of ICU admission (second episode).
+Given 1000 mL crystalloid; 2 units PRBC transfused.
+Social work to discuss home oxygen funding, est. €350.
+Blood cultures 2 of 2 positive; 50% of isolates sensitive to piperacillin-tazobactam.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. J. Singh, ICU consultant at Mater Misericordiae University Hospital on 05/04/2025 at 1700 hrs.
+
+RESIDENT NOTE — 11-Feb-2026
+Date: November 18, 2026  Time: 09:15
+Sarah Singh, 76M, Indian. MRN 68834689.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted January 6, 2025 with acute ischaemic stroke.
+Noradrenaline 0.4 mcg/kg/min to keep MAP > 65.
+Social work to discuss home oxygen funding, est. €350.
+Given 250 mL crystalloid; 2 units PRBC transfused.
+Blood cultures 2 of 2 positive; 96% of isolates sensitive to piperacillin-tazobactam.
+WBC 14.2, Cr 106, lactate 4.6 mmol/L, platelets 298.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Power, ICU consultant at University Hospital Galway on 02/11/2025 at 2330 hrs.
+
+FELLOW NOTE — February 17, 2025
+Date: 13/11/2025  Time: 02:00
+Maria Gallagher, 40M, Romanian. MRN 18793436.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 27/06/2026 with post-operative monitoring.
+Social work to discuss home oxygen funding, est. €3,200.
+WBC 9.4, Cr 363, lactate 3.8 mmol/L, platelets 299.
+ETT in situ, FiO2 60%, PEEP 10, TV 450 mL. ABG pH 7.21.
+Given 250 mL crystalloid; 2 units PRBC transfused.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. J. Ryan, ICU consultant at Beaumont Hospital on 22/06/2026 at 0800 hrs.
+
+ATTENDING NOTE — 2026-11-02
+Date: 15/09/2025  Time: 1745 hrs
+Roisin McCarthy, 67M, Nigerian. MRN 87492016.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted June 5, 2026 with acute ischaemic stroke.
+ETT in situ, FiO2 30%, PEEP 10, TV 450 mL. ABG pH 7.38.
+Given 1000 mL crystalloid; 3 units PRBC transfused.
+Hypoxic respiratory failure, day 1 of ICU admission (first episode).
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. Byrne, ICU consultant at Beaumont Hospital on 20-Nov-2026 at 11:00.
+
+SOAP NOTE
+Date: 08/10/2025  00:30
+Patient: Tomasz Singh (Indian), MRN 40099528
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient drowsy but rousable, VSS.
+O: HR 132, MAP 74 mmHg, Temp 35.8°C, SpO2 45% on FiO2 55%. WBC 14.2, Cr 379, lactate 4.6 mmol/L, platelets 121.
+A: Ards, first ICU day.
+P: Noradrenaline 0.1 mcg/kg/min to keep MAP > 70. Given 250 mL crystalloid; 4 units PRBC transfused.
+Reviewed by Dr. A. O'Brien, registrar at St. James's Hospital on 28-Nov-2026 at 08:00.
+
+ICU HANDOVER NOTE — 27-Sep-2026 1845 hrs
+S: Tomasz Costello, 82M, bed 8.
+B: Admitted 06/01/2025 with septic shock. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 109, MAP 66 mmHg, Temp 37.1°C, SpO2 50% on FiO2 30%.
+R: Handed over to Dr. Walsh at University Hospital Galway. Call Dr. R. Healy PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 22-Apr-2025
+Tomasz Nolan, 83M, Latvian. MRN 92300116.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: 06/09/2026. Diagnoses: polytrauma, septic shock.
+HR 115, MAP 66 mmHg, Temp 37.1°C, SpO2 40% on FiO2 70%.
+Noradrenaline 0.1 mcg/kg/min to keep MAP > 70.
+Blood cultures 1 of 2 positive; 40% of isolates sensitive to piperacillin-tazobactam.
+Decompensated chf, day 12 of ICU admission (third episode).
+Social work to discuss home oxygen funding, est. €7,800.
+ETT in situ, FiO2 30%, PEEP 10, TV 500 mL. ABG pH 7.38.
+Length of stay 11 days.
+Reviewed by Dr. P. Hartmann, ICU consultant at Cork University Hospital on 03/09/2025 at 0715.
+
+Overnight cross-cover 23:30, 13-Jun-2025. James Hartmann at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted 23-Nov-2026 with DKA; VSS overnight, NAEON. Covered by Dr. P. Murphy.
+
+NARRATIVE PROGRESS NOTE — 2026-01-28
+Patient is a 48-year-old Brazilian gentleman (Laura O'Connor, MRN 62554703, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on 20-Oct-2025 with ARDS. Overnight he required FiO2 45% with SpO2 30% and noradrenaline 0.1 mcg/kg/min. Lactate cleared to 1.4 mmol/L. Seen by Dr. A. Nolan of the renal team at St. James's Hospital on 12/03/2025 at 0400 hrs.
+
+DICTATION — dictated by Dr. P. Kelly on 03/10/2026 at 1700.
+This is a 68 year old Polish patient, Siobhan O'Connor, record number 37267733, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 2025-01-04 with post-operative monitoring. HR 139, MAP 60 mmHg, Temp 38.4°C, SpO2 100% on FiO2 40%. WBC 9.4, Cr 110, lactate 2.4 mmol/L, platelets 190. Estimated ICU cost to date €2,400. End of dictation.
+
+PROBLEM-ORIENTED NOTE — 11/07/2026 08:30
+Patient: David Singh, Nigerian, MRN 90800195, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: acute ischaemic stroke — HR 110, MAP 56 mmHg, Temp 39.0°C, SpO2 40% on FiO2 92%.
+# Problem 2: ICU delirium — Noradrenaline 0.05 mcg/kg/min to keep MAP > 70.
+# Problem 3: AKI — Given 250 mL crystalloid; 1 units PRBC transfused.
+# Problem 4: upper GI bleed — Given 500 mL crystalloid; 2 units PRBC transfused.
+
+Reviewed by Dr. J. Murphy, ICU fellow at Sligo University Hospital on 07/05/2025 at 15:00.
+
+ICU DAILY PROGRESS NOTE — 26-Mar-2026
+Date: 27-Sep-2026  Time: 0530
+Michael Doyle, 82M, Lithuanian. MRN 24753647.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted February 21, 2026 with hypoxic respiratory failure.
+Severe sepsis, day 7 of ICU admission (fourth episode).
+ETT in situ, FiO2 35%, PEEP 12, TV 380 mL. ABG pH 7.38.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. Gallagher, ICU consultant at Beaumont Hospital on 14-Sep-2025 at 2015.
+
+RESIDENT NOTE — 05-Sep-2025
+Date: 2025-09-11  Time: 14:30
+Padraig Maguire, 51M, Romanian. MRN 26919090.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 11-Aug-2025 with AKI.
+ETT in situ, FiO2 90%, PEEP 14, TV 450 mL. ABG pH 7.31.
+Community-acquired pneumonia, day 6 of ICU admission (second episode).
+WBC 14.2, Cr 112, lactate 2.4 mmol/L, platelets 92.
+Blood cultures 1 of 2 positive; 94% of isolates sensitive to piperacillin-tazobactam.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. Byrne, ICU consultant at Beaumont Hospital on 24/05/2026 at 03:00.
+
+FELLOW NOTE — 13/08/2025
+Date: 28-Jul-2025  Time: 20:30
+Liam McCarthy, 70M, Irish. MRN 42518840.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 2026-07-28 with polytrauma.
+ETT in situ, FiO2 98%, PEEP 12, TV 450 mL. ABG pH 7.38.
+Polytrauma, day 12 of ICU admission (first episode).
+HR 111, MAP 70 mmHg, Temp 39.0°C, SpO2 50% on FiO2 70%.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. Kowalski, ICU consultant at University Hospital Limerick on 15-Jan-2026 at 2115.
+
+ATTENDING NOTE — 2026-01-11
+Date: 04-Jan-2026  Time: 0515 hrs
+Aoife Silva, 92M, British. MRN 82616531.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 07-Dec-2026 with polytrauma.
+Community-acquired pneumonia, day 11 of ICU admission (second episode).
+Noradrenaline 0.4 mcg/kg/min to keep MAP > 70.
+Social work to discuss home oxygen funding, est. €12,000.
+Blood cultures 1 of 2 positive; 92% of isolates sensitive to piperacillin-tazobactam.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. P. Kelly, ICU consultant at Beaumont Hospital on 09/07/2026 at 0245.
+
+SOAP NOTE
+Date: 21-Dec-2026  03:15
+Patient: Eoin Quinn (Romanian), MRN 62608350
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient drowsy but rousable, VSS.
+O: HR 85, MAP 65 mmHg, Temp 37.1°C, SpO2 35% on FiO2 55%. WBC 18.6, Cr 388, lactate 6.2 mmol/L, platelets 155.
+A: Icu delirium, second ICU day.
+P: Noradrenaline 0.2 mcg/kg/min to keep MAP > 70. Given 1000 mL crystalloid; 4 units PRBC transfused.
+Reviewed by Dr. J. Gallagher, registrar at Sligo University Hospital on 21-Mar-2026 at 0730 hrs.
+
+ICU HANDOVER NOTE — May 22, 2026 1500
+S: Laura McCarthy, 64M, bed 8.
+B: Admitted 21-May-2026 with COPD exacerbation. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 137, MAP 60 mmHg, Temp 38.4°C, SpO2 45% on FiO2 80%.
+R: Handed over to Dr. Nowak at University Hospital Galway. Call Dr. A. Okafor PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 19-Jun-2025
+Roisin Reid, 20M, Irish. MRN 38152097.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: 03/11/2026. Diagnoses: severe sepsis, upper GI bleed.
+Noradrenaline 0.1 mcg/kg/min to keep MAP > 60.
+WBC 18.6, Cr 333, lactate 2.4 mmol/L, platelets 86.
+Social work to discuss home oxygen funding, est. €7,800.
+ETT in situ, FiO2 80%, PEEP 8, TV 500 mL. ABG pH 7.31.
+Length of stay 18 days.
+Reviewed by Dr. A. Costello, ICU consultant at University Hospital Limerick on 22/02/2025 at 07:15.
+
+Overnight cross-cover 17:00, 05/12/2026. Niamh Healy at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted 20/12/2025 with decompensated CHF; VSS overnight, NAEON. Covered by Dr. J. Maguire.
+
+NARRATIVE PROGRESS NOTE — 2026-08-19
+Patient is a 66-year-old Latvian gentleman (Sinead Power, MRN 20119524, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on November 6, 2026 with septic shock. Overnight he required FiO2 28% with SpO2 30% and noradrenaline 0.3 mcg/kg/min. Lactate cleared to 2.6 mmol/L. Seen by Dr. M. Dunne of the renal team at Mater Misericordiae University Hospital on August 17, 2026 at 04:00.
+
+DICTATION — dictated by Dr. J. Reid on 2025-06-05 at 11:30.
+This is a 86 year old Indian patient, David Hartmann, record number 38283069, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 10-Jul-2026 with DKA. HR 64, MAP 73 mmHg, Temp 38.4°C, SpO2 92% on FiO2 100%. WBC 18.6, Cr 230, lactate 6.2 mmol/L, platelets 179. Estimated ICU cost to date €12,000. End of dictation.
+
+PROBLEM-ORIENTED NOTE — June 17, 2025 03:30
+Patient: Michael Gallagher, Lithuanian, MRN 88712142, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: severe sepsis — Given 500 mL crystalloid; 1 units PRBC transfused.
+# Problem 2: type 2 respiratory failure — Noradrenaline 0.2 mcg/kg/min to keep MAP > 60.
+# Problem 3: septic shock — HR 63, MAP 67 mmHg, Temp 39.0°C, SpO2 30% on FiO2 94%.
+# Problem 4: COPD exacerbation — Given 250 mL crystalloid; 1 units PRBC transfused.
+
+Reviewed by Dr. S. Kelly, ICU fellow at University Hospital Limerick on March 21, 2025 at 0145 hrs.
+
+ICU DAILY PROGRESS NOTE — 2026-01-21
+Date: 2026-05-05  Time: 05:45
+Patrick Kowalski, 91M, Irish. MRN 76808897.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 2025-09-19 with type 2 respiratory failure.
+Blood cultures 1 of 2 positive; 100% of isolates sensitive to piperacillin-tazobactam.
+Noradrenaline 0.4 mcg/kg/min to keep MAP > 70.
+HR 71, MAP 60 mmHg, Temp 39.0°C, SpO2 55% on FiO2 45%.
+Polytrauma, day 1 of ICU admission (fourth episode).
+Social work to discuss home oxygen funding, est. €350.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. A. Power, ICU consultant at Mater Misericordiae University Hospital on 2025-02-28 at 04:45.
+
+RESIDENT NOTE — 24-Oct-2025
+Date: 24-Mar-2025  Time: 2315 hrs
+Sean Gallagher, 90M, British. MRN 71817963.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted May 22, 2025 with septic shock.
+HR 137, MAP 60 mmHg, Temp 39.0°C, SpO2 80% on FiO2 80%.
+Hypoxic respiratory failure, day 10 of ICU admission (second episode).
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. Okafor, ICU consultant at University Hospital Limerick on 20-Jan-2026 at 18:45.
+
+FELLOW NOTE — 06-Mar-2025
+Date: 21-Mar-2026  Time: 1430 hrs
+Lukasz Patel, 56M, Brazilian. MRN 18138668.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 2026-11-20 with hypoxic respiratory failure.
+ETT in situ, FiO2 80%, PEEP 14, TV 500 mL. ABG pH 7.31.
+Given 500 mL crystalloid; 4 units PRBC transfused.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. P. Nowak, ICU consultant at Connolly Hospital on 25/04/2026 at 00:30.
+
+ATTENDING NOTE — 14/03/2025
+Date: 05/10/2025  Time: 17:45
+Sean Healy, 89M, British. MRN 61235979.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 07-Dec-2025 with septic shock.
+Social work to discuss home oxygen funding, est. €12,000.
+Copd exacerbation, day 8 of ICU admission (fifth episode).
+WBC 3.1, Cr 334, lactate 3.8 mmol/L, platelets 72.
+ETT in situ, FiO2 60%, PEEP 12, TV 450 mL. ABG pH 7.38.
+HR 119, MAP 87 mmHg, Temp 35.8°C, SpO2 55% on FiO2 55%.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. O'Connor, ICU consultant at Mater Misericordiae University Hospital on 06-Dec-2026 at 18:30.
+
+SOAP NOTE
+Date: 17/03/2025  1530
+Patient: Roisin Reid (British), MRN 20970882
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient sedated and ventilated, NAEON.
+O: HR 98, MAP 56 mmHg, Temp 38.4°C, SpO2 70% on FiO2 28%. WBC 3.1, Cr 77, lactate 2.4 mmol/L, platelets 329.
+A: Acute ischaemic stroke, fifth ICU day.
+P: Noradrenaline 0.1 mcg/kg/min to keep MAP > 65. Given 500 mL crystalloid; 4 units PRBC transfused.
+Reviewed by Dr. A. Lynch, registrar at Connolly Hospital on 27/10/2025 at 01:30.
+
+ICU HANDOVER NOTE — 06/07/2025 0130
+S: Padraig Brennan, 27M, bed 13.
+B: Admitted 04/12/2025 with upper GI bleed. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 87, MAP 60 mmHg, Temp 35.8°C, SpO2 94% on FiO2 50%.
+R: Handed over to Dr. J. Silva at St. James's Hospital. Call Dr. M. Doyle PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 24/04/2025
+Declan Singh, 26M, Indian. MRN 13729374.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: January 27, 2026. Diagnoses: hypoxic respiratory failure, hypoxic respiratory failure.
+HR 96, MAP 92 mmHg, Temp 35.8°C, SpO2 98% on FiO2 40%.
+Social work to discuss home oxygen funding, est. €3,200.
+WBC 14.2, Cr 250, lactate 3.8 mmol/L, platelets 239.
+ETT in situ, FiO2 40%, PEEP 10, TV 500 mL. ABG pH 7.45.
+Blood cultures 1 of 2 positive; 98% of isolates sensitive to piperacillin-tazobactam.
+Noradrenaline 0.1 mcg/kg/min to keep MAP > 60.
+Length of stay 2 days.
+Reviewed by Dr. J. Maguire, ICU consultant at Cork University Hospital on 2025-01-26 at 0700.
+
+Overnight cross-cover 1115 hrs, July 4, 2025. Padraig Patel at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted 11/04/2026 with decompensated CHF; VSS overnight, NAEON. Covered by Dr. S. Patel.
+
+NARRATIVE PROGRESS NOTE — 08/12/2025
+Patient is a 76-year-old Indian gentleman (Liam Lynch, MRN 30051053, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on 09/07/2026 with septic shock. Overnight he required FiO2 70% with SpO2 80% and noradrenaline 0.2 mcg/kg/min. Lactate cleared to 1.4 mmol/L. Seen by Dr. M. Brennan of the renal team at Mater Misericordiae University Hospital on 11/08/2026 at 1600 hrs.
+
+DICTATION — dictated by Dr. Power on 2026-09-07 at 0330 hrs.
+This is a 65 year old Latvian patient, Declan Doyle, record number 41963674, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 04-Jul-2026 with ARDS. HR 65, MAP 73 mmHg, Temp 37.1°C, SpO2 28% on FiO2 98%. WBC 22.0, Cr 234, lactate 6.2 mmol/L, platelets 111. Estimated ICU cost to date €3,200. End of dictation.
+
+PROBLEM-ORIENTED NOTE — 01/09/2026 1300
+Patient: Conor McCarthy, Lithuanian, MRN 28532044, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: DKA — WBC 9.4, Cr 160, lactate 6.2 mmol/L, platelets 80.
+# Problem 2: type 2 respiratory failure — HR 135, MAP 86 mmHg, Temp 38.4°C, SpO2 50% on FiO2 55%.
+
+Reviewed by Dr. S. Nolan, ICU fellow at Cork University Hospital on 19/05/2025 at 2245.
+
+ICU DAILY PROGRESS NOTE — 02-Sep-2026
+Date: 27/11/2026  Time: 13:45
+Sarah McCarthy, 50M, Lithuanian. MRN 85581707.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 27/06/2025 with decompensated CHF.
+Post-operative monitoring, day 8 of ICU admission (fifth episode).
+Given 250 mL crystalloid; 1 units PRBC transfused.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. M. Maguire, ICU consultant at Cork University Hospital on 27-Jun-2026 at 0130.
+
+RESIDENT NOTE — 24-Aug-2026
+Date: 17/09/2025  Time: 0215 hrs
+Niamh Walsh, 58M, Brazilian. MRN 84539188.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 27/01/2025 with hypoxic respiratory failure.
+Given 1000 mL crystalloid; 4 units PRBC transfused.
+HR 124, MAP 70 mmHg, Temp 39.0°C, SpO2 40% on FiO2 92%.
+Social work to discuss home oxygen funding, est. €12,000.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. A. Maguire, ICU consultant at St. James's Hospital on 02-May-2025 at 18:30.
+
+FELLOW NOTE — 04-Jul-2025
+Date: April 8, 2025  Time: 14:45
+Patrick Reid, 68M, Latvian. MRN 90133382.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 27-Oct-2025 with septic shock.
+Hypoxic respiratory failure, day 7 of ICU admission (fifth episode).
+Noradrenaline 0.2 mcg/kg/min to keep MAP > 65.
+WBC 22.0, Cr 87, lactate 3.8 mmol/L, platelets 304.
+ETT in situ, FiO2 45%, PEEP 10, TV 420 mL. ABG pH 7.45.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. P. Reid, ICU consultant at University Hospital Galway on 12/02/2025 at 1315 hrs.
+
+ATTENDING NOTE — 01-Apr-2025
+Date: 2025-08-13  Time: 0100
+Grace McCarthy, 53M, Indian. MRN 14802129.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 20/02/2026 with septic shock.
+Noradrenaline 0.2 mcg/kg/min to keep MAP > 70.
+HR 79, MAP 62 mmHg, Temp 36.2°C, SpO2 70% on FiO2 35%.
+ETT in situ, FiO2 98%, PEEP 14, TV 420 mL. ABG pH 7.45.
+Blood cultures 1 of 2 positive; 45% of isolates sensitive to piperacillin-tazobactam.
+Post-operative monitoring, day 5 of ICU admission (fourth episode).
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Gallagher, ICU consultant at Beaumont Hospital on December 8, 2025 at 0945 hrs.
+
+SOAP NOTE
+Date: 19/04/2026  22:30
+Patient: Anna Gallagher (British), MRN 72943496
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient drowsy but rousable, VSS.
+O: HR 61, MAP 70 mmHg, Temp 38.4°C, SpO2 60% on FiO2 55%. WBC 22.0, Cr 339, lactate 4.6 mmol/L, platelets 339.
+A: Copd exacerbation, first ICU day.
+P: Noradrenaline 0.2 mcg/kg/min to keep MAP > 60. Given 250 mL crystalloid; 3 units PRBC transfused.
+Reviewed by Dr. R. Patel, registrar at University Hospital Limerick on 09/05/2025 at 0015 hrs.
+
+ICU HANDOVER NOTE — June 20, 2026 1645
+S: Roisin Costello, 32M, bed 17.
+B: Admitted 08-Nov-2025 with polytrauma. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 103, MAP 63 mmHg, Temp 37.1°C, SpO2 70% on FiO2 40%.
+R: Handed over to Dr. P. Silva at University Hospital Limerick. Call Dr. M. Dunne PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 21-Dec-2025
+Aoife Murphy, 71M, Indian. MRN 88629383.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: 2026-08-04. Diagnoses: upper GI bleed, ARDS.
+Given 500 mL crystalloid; 4 units PRBC transfused.
+Blood cultures 2 of 2 positive; 92% of isolates sensitive to piperacillin-tazobactam.
+Social work to discuss home oxygen funding, est. €2,400.
+Decompensated chf, day 7 of ICU admission (fifth episode).
+HR 129, MAP 79 mmHg, Temp 38.4°C, SpO2 28% on FiO2 100%.
+WBC 18.6, Cr 287, lactate 3.8 mmol/L, platelets 134.
+Length of stay 19 days.
+Reviewed by Dr. M. Dunne, ICU consultant at St. James's Hospital on 14-Oct-2026 at 02:30.
+
+Overnight cross-cover 1915, 07/07/2025. Declan Fitzgerald at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted 16-May-2026 with COPD exacerbation; VSS overnight, NAEON. Covered by Dr. R. Okafor.
+
+NARRATIVE PROGRESS NOTE — 17-Dec-2026
+Patient is a 64-year-old Irish gentleman (Grace Power, MRN 57124752, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on 15-Jan-2025 with severe sepsis. Overnight he required FiO2 96% with SpO2 92% and noradrenaline 0.3 mcg/kg/min. Lactate cleared to 2.0 mmol/L. Seen by Dr. P. Healy of the renal team at Connolly Hospital on 05-Apr-2026 at 1430 hrs.
+
+DICTATION — dictated by Dr. P. Okafor on 03-Mar-2026 at 0230 hrs.
+This is a 33 year old Brazilian patient, Michael Patel, record number 78300764, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 14-Nov-2025 with ICU delirium. HR 123, MAP 68 mmHg, Temp 35.8°C, SpO2 55% on FiO2 96%. WBC 9.4, Cr 90, lactate 6.2 mmol/L, platelets 348. Estimated ICU cost to date €350. End of dictation.
+
+PROBLEM-ORIENTED NOTE — October 12, 2025 00:00
+Patient: Michael Healy, Irish, MRN 50863476, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: ICU delirium — HR 61, MAP 67 mmHg, Temp 37.1°C, SpO2 100% on FiO2 70%.
+# Problem 2: severe sepsis — Given 1000 mL crystalloid; 2 units PRBC transfused.
+# Problem 3: upper GI bleed — Given 250 mL crystalloid; 4 units PRBC transfused.
+
+Reviewed by Dr. R. Walsh, ICU fellow at St. James's Hospital on 06/09/2025 at 0215.
+
+ICU DAILY PROGRESS NOTE — 2026-08-16
+Date: November 2, 2025  Time: 18:30
+Siobhan Singh, 54M, Lithuanian. MRN 14414474.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 2025-11-09 with upper GI bleed.
+Acute ischaemic stroke, day 10 of ICU admission (fourth episode).
+WBC 3.1, Cr 87, lactate 2.4 mmol/L, platelets 242.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Sheehan, ICU consultant at University Hospital Galway on 15/01/2025 at 0115.
+
+RESIDENT NOTE — 28/03/2026
+Date: 28-Aug-2026  Time: 0845
+Sean Doyle, 68M, Romanian. MRN 65498353.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 10/07/2026 with ICU delirium.
+WBC 14.2, Cr 254, lactate 2.4 mmol/L, platelets 43.
+Social work to discuss home oxygen funding, est. €2,400.
+Blood cultures 2 of 2 positive; 92% of isolates sensitive to piperacillin-tazobactam.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. A. Patel, ICU consultant at Sligo University Hospital on 28-Jul-2026 at 02:00.
+
+FELLOW NOTE — 12-Sep-2025
+Date: 15/05/2026  Time: 0130 hrs
+Cian Dunne, 38M, Romanian. MRN 27430198.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 03-Apr-2026 with type 2 respiratory failure.
+Social work to discuss home oxygen funding, est. €1,200.
+Noradrenaline 0.2 mcg/kg/min to keep MAP > 65.
+WBC 9.4, Cr 267, lactate 4.6 mmol/L, platelets 337.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. S. Gallagher, ICU consultant at University Hospital Limerick on 2025-04-17 at 2115.
+
+ATTENDING NOTE — 09-Oct-2026
+Date: 12-Sep-2025  Time: 16:15
+David Walsh, 84M, Polish. MRN 82825577.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 28/05/2026 with hypoxic respiratory failure.
+Given 1000 mL crystalloid; 1 units PRBC transfused.
+HR 80, MAP 69 mmHg, Temp 38.4°C, SpO2 55% on FiO2 40%.
+Noradrenaline 0.05 mcg/kg/min to keep MAP > 70.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. M. Dunne, ICU consultant at Sligo University Hospital on 25/05/2025 at 09:00.
+
+SOAP NOTE
+Date: 05/12/2026  1245 hrs
+Patient: James Silva (Lithuanian), MRN 47114024
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient sedated and ventilated, NAEON.
+O: HR 61, MAP 78 mmHg, Temp 38.4°C, SpO2 96% on FiO2 28%. WBC 18.6, Cr 187, lactate 4.6 mmol/L, platelets 220.
+A: Post-operative monitoring, first ICU day.
+P: Noradrenaline 0.1 mcg/kg/min to keep MAP > 65. Given 250 mL crystalloid; 3 units PRBC transfused.
+Reviewed by Dr. R. Costello, registrar at Cork University Hospital on 23-Nov-2025 at 19:15.
+
+ICU HANDOVER NOTE — 25-May-2025 0130 hrs
+S: Niamh Fitzgerald, 48M, bed 16.
+B: Admitted 2026-09-23 with polytrauma. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 131, MAP 77 mmHg, Temp 36.2°C, SpO2 40% on FiO2 80%.
+R: Handed over to Dr. A. Santos at Connolly Hospital. Call Dr. R. Maguire PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 02/04/2025
+Cian O'Connor, 63M, Polish. MRN 66000509.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: 2026-12-23. Diagnoses: upper GI bleed, ICU delirium.
+Given 500 mL crystalloid; 4 units PRBC transfused.
+Social work to discuss home oxygen funding, est. €2,400.
+HR 122, MAP 83 mmHg, Temp 35.8°C, SpO2 30% on FiO2 55%.
+ETT in situ, FiO2 96%, PEEP 14, TV 420 mL. ABG pH 7.45.
+Length of stay 8 days.
+Reviewed by Dr. A. Maguire, ICU consultant at Sligo University Hospital on 2025-03-09 at 2015 hrs.
+
+Overnight cross-cover 07:00, 12/07/2025. Orla Byrne at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted November 5, 2026 with community-acquired pneumonia; VSS overnight, NAEON. Covered by Dr. P. Doyle.
+
+NARRATIVE PROGRESS NOTE — 01/09/2026
+Patient is a 63-year-old Brazilian gentleman (Liam Santos, MRN 29043893, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on 19-Oct-2025 with ICU delirium. Overnight he required FiO2 40% with SpO2 96% and noradrenaline 0.1 mcg/kg/min. Lactate cleared to 2.6 mmol/L. Seen by Dr. P. Byrne of the renal team at Connolly Hospital on 15/07/2025 at 09:00.
+
+DICTATION — dictated by Dr. S. Kelly on 02/05/2026 at 22:30.
+This is a 33 year old Lithuanian patient, Cian Lynch, record number 72902405, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 19/06/2026 with severe sepsis. HR 63, MAP 55 mmHg, Temp 39.0°C, SpO2 100% on FiO2 35%. WBC 14.2, Cr 348, lactate 3.8 mmol/L, platelets 95. Estimated ICU cost to date €7,800. End of dictation.
+
+PROBLEM-ORIENTED NOTE — 16/07/2026 17:30
+Patient: Sean Reid, Brazilian, MRN 94254409, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: post-operative monitoring — ETT in situ, FiO2 60%, PEEP 5, TV 420 mL. ABG pH 7.21.
+# Problem 2: hypoxic respiratory failure — HR 108, MAP 64 mmHg, Temp 38.4°C, SpO2 92% on FiO2 50%.
+# Problem 3: polytrauma — Given 1000 mL crystalloid; 2 units PRBC transfused.
+# Problem 4: ICU delirium — HR 97, MAP 75 mmHg, Temp 39.0°C, SpO2 50% on FiO2 92%.
+
+Reviewed by Dr. M. Doyle, ICU fellow at Tallaght University Hospital on 2026-09-05 at 08:15.
+
+ICU DAILY PROGRESS NOTE — 2026-10-04
+Date: 07-Aug-2026  Time: 0530 hrs
+James O'Brien, 37M, Romanian. MRN 31963131.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 05/08/2026 with septic shock.
+Social work to discuss home oxygen funding, est. €350.
+WBC 22.0, Cr 321, lactate 4.6 mmol/L, platelets 113.
+Blood cultures 2 of 2 positive; 35% of isolates sensitive to piperacillin-tazobactam.
+ETT in situ, FiO2 30%, PEEP 14, TV 500 mL. ABG pH 7.38.
+HR 66, MAP 83 mmHg, Temp 36.2°C, SpO2 50% on FiO2 50%.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. J. Gallagher, ICU consultant at University Hospital Galway on 15-Oct-2026 at 1500 hrs.
+
+RESIDENT NOTE — 2026-08-17
+Date: 2026-03-21  Time: 1900
+Mary Costello, 61M, Brazilian. MRN 85836139.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 19-Jul-2026 with polytrauma.
+Given 1000 mL crystalloid; 1 units PRBC transfused.
+Blood cultures 1 of 2 positive; 60% of isolates sensitive to piperacillin-tazobactam.
+ETT in situ, FiO2 98%, PEEP 5, TV 420 mL. ABG pH 7.38.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Fitzgerald, ICU consultant at St. Vincent's University Hospital on 12-Sep-2025 at 12:30.
+
+FELLOW NOTE — 06/04/2025
+Date: 27/05/2025  Time: 2130 hrs
+Siobhan Healy, 77M, Romanian. MRN 82642211.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted December 19, 2025 with post-operative monitoring.
+Blood cultures 1 of 2 positive; 98% of isolates sensitive to piperacillin-tazobactam.
+Ards, day 9 of ICU admission (fifth episode).
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. R. Maguire, ICU consultant at Mater Misericordiae University Hospital on 21-Dec-2025 at 2145 hrs.
+
+ATTENDING NOTE — October 7, 2026
+Date: 05-Jun-2025  Time: 01:30
+Michael Nolan, 46M, British. MRN 50255922.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted 04-Dec-2025 with post-operative monitoring.
+Noradrenaline 0.05 mcg/kg/min to keep MAP > 70.
+Given 500 mL crystalloid; 2 units PRBC transfused.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. M. Costello, ICU consultant at Tallaght University Hospital on 2025-12-26 at 03:15.
+
+SOAP NOTE
+Date: September 24, 2026  01:30
+Patient: Anna Patel (Polish), MRN 14583059
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+S: Patient sedated and ventilated, NAEON.
+O: HR 90, MAP 77 mmHg, Temp 37.1°C, SpO2 98% on FiO2 28%. WBC 22.0, Cr 285, lactate 1.1 mmol/L, platelets 50.
+A: Acute ischaemic stroke, first ICU day.
+P: Noradrenaline 0.05 mcg/kg/min to keep MAP > 65. Given 250 mL crystalloid; 2 units PRBC transfused.
+Reviewed by Dr. R. Hartmann, registrar at Beaumont Hospital on 2026-11-28 at 1830 hrs.
+
+ICU HANDOVER NOTE — 23/05/2026 10:15
+S: Maria Silva, 23M, bed 2.
+B: Admitted 2026-03-03 with ARDS. Home address STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+A: HR 115, MAP 80 mmHg, Temp 37.1°C, SpO2 35% on FiO2 92%.
+R: Handed over to Dr. M. Quinn at Cork University Hospital. Call Dr. M. Santos PRN.
+
+ICU TRANSFER SUMMARY
+Date of transfer: 05/10/2025
+Roisin Costello, 78M, Nigerian. MRN 87449326.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admission date: 15-Jul-2026. Diagnoses: decompensated CHF, upper GI bleed.
+Septic shock, day 11 of ICU admission (second episode).
+WBC 9.4, Cr 199, lactate 4.6 mmol/L, platelets 179.
+HR 66, MAP 87 mmHg, Temp 38.4°C, SpO2 92% on FiO2 45%.
+Blood cultures 1 of 2 positive; 40% of isolates sensitive to piperacillin-tazobactam.
+Noradrenaline 0.1 mcg/kg/min to keep MAP > 65.
+ETT in situ, FiO2 40%, PEEP 10, TV 450 mL. ABG pH 7.31.
+Length of stay 6 days.
+Reviewed by Dr. P. O'Brien, ICU consultant at Beaumont Hospital on 25-Jun-2026 at 20:15.
+
+Overnight cross-cover 17:45, 2026-06-23. Laura Brennan at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL, admitted 2025-06-17 with decompensated CHF; VSS overnight, NAEON. Covered by Dr. S. Byrne.
+
+NARRATIVE PROGRESS NOTE — 07-Jan-2026
+Patient is a 69-year-old Brazilian gentleman (Niamh Fitzgerald, MRN 18902028, resident at STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL) admitted on 05/05/2026 with upper GI bleed. Overnight he required FiO2 90% with SpO2 35% and noradrenaline 0.1 mcg/kg/min. Lactate cleared to 2.6 mmol/L. Seen by Dr. A. Fitzgerald of the renal team at St. James's Hospital on 2026-10-10 at 1145 hrs.
+
+DICTATION — dictated by Dr. A. Okafor on 16/06/2025 at 0800 hrs.
+This is a 53 year old Romanian patient, Michael Murphy, record number 39301642, of STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL. Admitted 02/07/2026 with upper GI bleed. HR 94, MAP 87 mmHg, Temp 36.2°C, SpO2 55% on FiO2 60%. WBC 3.1, Cr 126, lactate 6.2 mmol/L, platelets 64. Estimated ICU cost to date €350. End of dictation.
+
+PROBLEM-ORIENTED NOTE — October 3, 2026 00:15
+Patient: James Santos, Irish, MRN 95884883, STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL
+# Problem 1: post-operative monitoring — ETT in situ, FiO2 90%, PEEP 5, TV 500 mL. ABG pH 7.45.
+# Problem 2: septic shock — Given 1000 mL crystalloid; 3 units PRBC transfused.
+# Problem 3: community-acquired pneumonia — WBC 3.1, Cr 272, lactate 1.1 mmol/L, platelets 84.
+
+Reviewed by Dr. P. Nolan, ICU fellow at Tallaght University Hospital on 25/08/2026 at 14:00.
+
+ICU DAILY PROGRESS NOTE — 11/10/2026
+Date: 20/12/2026  Time: 00:15
+Tomasz Sheehan, 30M, Nigerian. MRN 58550136.
+Address: STREET_LABEL, GPE_LABEL, COUNTY_LABEL, EIRCODE_LABEL.
+Admitted June 14, 2025 with upper GI bleed.
+Noradrenaline 0.4 mcg/kg/min to keep MAP > 60.
+Type 2 respiratory failure, day 11 of ICU admission (third episode).
+Given 1000 mL crystalloid; 4 units PRBC transfused.
+ETT in situ, FiO2 70%, PEEP 10, TV 450 mL. ABG pH 7.31.
+Plan: continue current management, PT/OT review, daily ABG PRN.
+Reviewed by Dr. M. Murphy, ICU consultant at Sligo University Hospital on 16/02/2026 at 20:15.
+
